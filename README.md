@@ -1,7 +1,6 @@
 ### Olá! Eu sou o Erickson Zango Raúl
 
-- 🔭 Hoje trabalho com front-end
-- 🌱 Estudando React-js
+- 🔭 Hoje trabalho com front-end.
 - 😄 Pronouns: ele/dele
 
 <div align="">
