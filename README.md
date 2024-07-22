@@ -1,7 +1,6 @@
 ### Olá! Eu sou o Erickson Zango Raúl
 
 - 🔭 Hoje trabalho com front-end.
-- 😄 Pronouns: ele/dele
 
 <div align="">
   <a href="https://github.com/raposa12">
